@@ -15,7 +15,7 @@ export default function Home() {
 
         <img className="roger-photo" src="/rogercole.jpeg" />
 
-        <p className="description">Dad, Grandpa, Consultant</p>
+        <p className="description">Husband, Dad, Grandpa, Consultant</p>
       </main>
 
       <style jsx>{`
